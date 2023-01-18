@@ -8,7 +8,7 @@ def address_classificaation(address):
 		juusyo = ''
 		banti = ''
 		#念のため半角に変換する
-		address.translate(str.maketrans({chr(0xFF01 + i): chr(0x21 + i) for i in range(94)})).replace(',','')
+		address.translate(str.maketrans({chr(0xFF01 + i): chr(0x21 + i) for i in range(94)})).replace(',','').replace('ー','-')
 		
 		if re.compile('東京都|北海道|(?:京都|大阪)府|.{2,3}県').search(address):
 			todoufuken = re.search('東京都|北海道|(?:京都|大阪)府|.{2,3}県' , address).group()
@@ -66,7 +66,7 @@ def address_classificaation(address):
 		address = address.replace(banti,'')
 
 		address_banti = address_3 + banti.replace('ー','-')
-		tatemono = address.strip()
+		tatemono = address.strip().replace('-','ー')
 
 		return todoufuken.strip(), shikugun.strip(), address_banti.translate(str.maketrans({chr(0xFF01 + i): chr(0x21 + i) for i in range(94)})).strip(), tatemono.translate(str.maketrans({chr(0xFF01 + i): chr(0x21 + i) for i in range(94)})).strip()
 	except UnicodeDecodeError:
@@ -91,8 +91,7 @@ def address_clean(address):
 # 文字列を半角に変換し余分な（）の文章等を削除する
 def clean(str):
     str = str.translate(str.maketrans({chr(0xFF01 + i): chr(0x21 + i) for i in range(94)}))
-    str = str.replace('\n','').replace('\t','').replace('\r','').replace('販売業者','').encode('cp932',errors='ignore').decode('cp932').replace('\u3000','').replace('（株）','株式会社').replace('㈱','株式会社').replace('㈲','有限会社').replace('(株)','株式会社').replace('（有）','有限会社').replace('(有)','有限会社').replace('法人名','').strip()
+    str = str.replace('\n','').replace('\t','').replace('\r','').replace('販売業者','').encode('cp932',errors='ignore').decode('cp932').replace('\u3000','').replace('（株）','株式会社').replace('㈱','株式会社').replace('㈲','有限会社').replace('(株)','株式会社').replace('（有）','有限会社').replace('(有)','有限会社').replace('法人名','').replace('株式会社 ','株式会社').replace('有限会社 ','有限会社').strip()
     if re.compile('\(.+?\)|（.+?）').search(str):
-        str = str.replace(re.search('\(.+?\)|（.+?）',str).group(),'')
-    
+      str = str.replace(re.search('\(.+?\)|（.+?）',str).group(),'')
     return str.strip()

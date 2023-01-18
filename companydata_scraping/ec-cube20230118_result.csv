@@ -1,0 +1,543 @@
+,url,stutas,company,tel,ad1,ad2,ad3,ad4
+0,"https://moose.co.jp/help/tradelaw
+",scraping error,有限会社ムース,052-848-2780,,,,
+1,"https://www.2929.store/help/tradelaw
+",success,杉本食肉産業株式会社,052-741-3101,愛知県,名古屋市昭和区,緑町2-20,
+2,"https://phoenix-flower-shop.jp/help/tradelaw
+",success,クリエイティブ・フラワー・コーポレーション株式会社,06-6372-6674,大阪府,クリエイティブ・フラワー・コーポレーション株式会社大阪市北区,芝田2丁目1-18,西阪急ビル9階
+3,"https://shop.i-w-a.co.jp/help/tradelaw
+",都道府県抜け,株式会社岩崎製作所,06-6758-1084,,大阪市生野区,南巽2-3-18,
+4,"https://www.sanfoods.jp/shop/help/tradelaw
+",scraping error,株式会社ネクストビジョン,055-269-5947,,,,
+5,"https://shop.yoshimi0926.co.jp/help/tradelaw
+",scraping error,株式会社Gourmand,050-5494-6310,,,,
+6,"https://hobbies.misystems.jp/help/tradelaw
+",scraping error,エム・アイ・システムズ株式会社ホビーズEC事業部,072-750-2300,,,,
+7,"https://iwill-design.jp/help/tradelaw
+",scraping error,株式会社アイル,0562-57-4411,,,,
+8,"https://kyosen.do/help/tradelaw
+",success,株式会社京煎堂,0774-21-2255,京都府,宇治市,槇島町中川原23-5,
+9,"https://kyosen.do/help/tradelaw
+",success,株式会社京煎堂,0774-21-2255,京都府,宇治市,槇島町中川原23-5,
+10,"https://enginori.com/help/tradelaw
+",都道府県抜け,井口食品株式会社,092-682-6988,,福岡市東区,名島2-34-25,
+11,"https://www.kscc.or.jp/ecnew/help/tradelaw
+",success,公益財団法人 関西カウンセリングセンター,06-6809-1225,大阪府,大阪市北区,西天満2-6-8,堂島ビルヂング8階
+12,"https://ever-lady.jp/help/tradelaw
+",success,株式会社ディーラリエエバーレディ事業部,06-6836-9905,大阪府,豊中市,桜の町4丁目2-12,
+13,"https://store.noid.jp/help/tradelaw
+",scraping error,アヴィエラン株式会社,042-522-0207,,,,
+14,"https://funtos.jp/ecshop/help/tradelaw
+",success,株式会社ソユー,018-824-5111,秋田県,秋田市,卸町三丁目7-3,
+15,"https://www.airbuggy.com/ec/help/tradelaw
+",success,〒151-0063 東京都渋谷区富ヶ谷1-18-5,0120-178-363,東京都,渋谷区,富ヶ谷1-18-5,
+16,"https://www.myogata-ham.jp/shop/html/help/tradelaw
+",scraping error,めぐみの農業協同組合,0575-65-2300,,,,
+17,"https://shop.coco-grove.jp/help/tradelaw
+",都道府県抜け,株式会社アズマ,06-6782-5120,,,提供の手段:専用システムにて実施,
+18,"https://femininestyle.jp/help/tradelaw
+",success,フェミニンスタイル株式会社,03-6712-8707,東京都,港区,港南1-8-27,
+19,"https://www.mou.co.jp/help/tradelaw
+",success,"株式会社アクロポリス[英文表記:acropolis co., ltd]",076-422-2222,富山県,富山市,総曲輪3-5-4,
+20,"https://umiyama.org/help/tradelaw
+",success,農事組合法人石垣島海のもの山のもの生産組合,0980-86-7757,沖縄県,石垣市,桃里165-413,
+21,"https://kobutora-nishii.com/shop/help/tradelaw
+",success,昆布寅西井,0745-52-2316,奈良県,大和高田市,内本町5-11,
+22,"https://airsoft97.com/help/tradelaw
+",success,有限会社SPARK,098-943-8943,沖縄県,宜野湾市,普天間1-34-11F,(店舗のみ)
+23,"https://sfty.co.jp/help/tradelaw
+",success,有限会社セーフティー,093-483-3666,福岡県,北九州市門司区,伊川1951-3,
+24,"https://ethos-cradle.com/help/tradelaw
+",success,株式会社CRADLE,079-441-9971,兵庫県,加古川市,平岡町新在家892-1,
+25,"https://chickenman.jp/order/help/tradelaw
+",success,有限会社CHICKENMAN,0334754123,東京都,港区,六本木3丁目11,-7六本木石渡ビル6階
+26,"https://kobayashi-seika.co.jp/shop/help/tradelaw
+",scraping error,,0336776998,,,,
+27,"https://shop.qntoqnto.com/help/tradelaw
+",success,Qnto Qnto,077-576-5092,滋賀県,大津市,坂本二丁目2-71,
+28,"https://www.tenmafitsworld.com/help/tradelaw
+",success,天馬株式会社,03-3598-5651,東京都,北区,赤羽1-63-6,
+29,"https://daisen-jikan.com/help/tradelaw
+",success,株式会社ビッグワン,0859579083,鳥取県,西伯郡,大山町大山116番地5,
+30,"http://133.242.209.124/help/tradelaw
+",success,鉄板焼きどんとこ,082-249-5981,広島県,広島市中区,三川町6-3,プリシアダイコウビル101 どんとこ三川町店
+31,"https://ja-tsukigata.food-palette.com/help/tradelaw
+",scraping error,株式会社エーコープつきがた,0126-37-2121,,,,
+32,"https://www.kikusuinosato.co.jp/help/tradelaw
+",scraping error,きくすいの里,096-886-5055,,,,
+33,"http://store.little-angels.jp/help/tradelaw
+",scraping error,リトルエンジェルズオンライン,050-3385-9488,,,,
+34,"https://coccola.komekichi.com/help/tradelaw
+",scraping error,並木ダイニングコッコラ,0266-58-0140,,,,
+35,"http://toyoura-rss.com/ec/help/tradelaw
+",success,株式会社豊浦産業振興公社,0142-83-1010,北海道,虻田郡,豊浦字旭町65番地8,
+36,"https://hanabata.co.jp/shop/help/tradelaw
+",success,有限会社アクアランドはなばた,0246-65-7400,福島県,いわき市,勿来町四沢渋町33,
+37,"https://produrre-okayama.com/help/tradelaw
+",都道府県抜け,produrre,0862067018,,,〒 701-0153,
+38,"https://shop.armoniaesaka.com/help/tradelaw
+",success,アルモニア株式会社,050-1221-3084,大阪府,吹田市,垂水町1丁目55-2,メゾンワタナベ103
+39,"http://white-magic.co.jp/help/tradelaw
+",scraping error,株式会社ホワイトゴールドJAPAN,025-385-7750,,,,
+40,"https://store.pcshopmast.com/help/tradelaw
+",scraping error,株式会社やまつ,092-836-8956,,,,
+41,"https://shop.kurobenotaiyo.co.jp/help/tradelaw
+",都道府県抜け,くろべの太陽株式会社,0765-52-0173,,,くろべの太陽株式会社 本社,
+42,"https://shop.atelier-ninon.com/help/tradelaw
+",success,株式会社ル コタージュ,03-6721-1689,東京都,渋谷区,神宮前3-27-22,ルコタージュビルディング104
+43,"https://t-plaza.co.jp/help/tradelaw
+",都道府県抜け,運営責任者,049-265-8001,,,〒-,
+44,"https://karyou-tohteru.ec-cube.shop/help/tradelaw
+",success,株式会社東照,044-244-5221,神奈川県,川崎市川崎区,本町1-9-1,
+45,"https://shokunomiraibin.com/help/tradelaw
+",scraping error,決済手数料には運賃、振込手数料、収入印紙代は含まれておりません。,098-851-9546,,,,
+46,"https://shop.yokota-sekizaiten.co.jp/help/tradelaw
+",success,有限会社横田石材店,0749-85-6152,滋賀県,長浜市,高月町馬上1574,
+47,"https://silverohno.sakura.ne.jp/ec/html/help/tradelaw
+",scraping error,株式会社大野商会,045-664-6667,,,,
+48,"https://www.kurasuonline.com/help/tradelaw
+",success,株式会社チャンピオン,0120-372-315,山形県,酒田市,四ツ興野430,
+49,"https://meigetsu.org/shop/help/tradelaw
+",success,御菓子司名月,045-701-7735,神奈川県,横浜市金沢区,六浦5丁目23-29,
+50,"https://shop.chirancha.jp/help/tradelaw
+",success,株式会社知覧茶園,099-239-2200,鹿児島県,鹿児島市,堀江町6-16,
+51,"https://sutou-nousan.com/shopping/help/tradelaw
+",scraping error,有限会社すとう農産,0242-59-1021,,,,
+52,"https://shop.kijidaruma.com/help/tradelaw
+",scraping error,木地処さとう,0246-22-0246,,,,
+53,"https://secure.magical.jp/shop/help/tradelaw
+",scraping error,まじかるテクノロジー有限会社,042-812-7539,,,,
+54,"https://idealinc.tv/help/tradelaw
+",success,株式会社イデアル,0263-31-3145,長野県,松本市,中央1-11-23,
+55,"https://shop.1pt.jp/help/tradelaw
+",scraping error,,043-233-3511,,,,
+56,"https://matsuoshouten.jp/shop/help/tradelaw
+",scraping error,株式会社松尾商店,,,岐阜市,六条南2丁目3番地5号,
+57,"https://shop.livepiadepo-sowell.com/help/tradelaw
+",success,株式会社ソエル,0282-51-9320,栃木県,栃木市,岩舟町曲ケ島1806-4,
+58,"https://shop.kubimakura.com/help/tradelaw
+",success,有限会社小池経編染工所,0284-21-7341,栃木県,足利市,西宮町2833,
+59,"http://shop.noel.gr.jp/help/tradelaw
+",success,フラワー スタジオ ノエル,054-286-8601,静岡県,静岡市駿河区,中田本町23-13,
+60,"https://miyazuka.shop/html/help/tradelaw
+",scraping error,株式会社システムデザインワークス,0287-74-3134,,,,
+61,"https://rcode.jp/help/tradelaw
+",success,株式会社リリーフ,096-284-8666,熊本県,熊本市中央区,水前寺六丁目50番21号,TEL:096ー284ー8666/FAX:096ー288ー9283
+62,"https://shopping.fratto-0919.co.jp/help/tradelaw
+",success,株式会社fratto,022-306-5255,宮城県,仙台市太白区,東中田6丁目3-30,
+63,"https://ijs-yoyaku.com/garage-plus-shop/help/tradelaw
+",success,ガレージプラス,029-306-8102,茨城県,水戸市,笠原町23-5,
+64,"https://e-shop.ogawagakki.co.jp/help/tradelaw
+",success,小川楽器株式会社,0944-74-0333,福岡県,柳川市,京町58-9,
+65,"https://fuse119.fujix-net.com/help/tradelaw
+",success,株式会社フジックス,04-2934-7311,埼玉県,入間市,狭山ヶ原11,-15
+66,"https://shop.regular-sports.jp/help/tradelaw
+",success,株式会社レギュラースポーツ,086-805-3714,岡山県,岡山市北区,北長瀬表町2丁目13-26,
+67,"https://www.sibody.co.jp/help/tradelaw
+",scraping error,,0120-777-723,東京都,港区,南青山5-4-30,南青山澁澤ビル4F
+68,"https://shop.pegurefreshstudio.com/help/tradelaw
+",scraping error,pegu合同会社,027-387-0390,,,,
+69,"https://tkg-shop.com/help/tradelaw
+",success,株式会社トータル・プランニング,0737-22-3666,和歌山県,有田市,宮原町須谷535-1,
+70,"https://watakuwa-ec.com/help/tradelaw
+",success,株式会社綿鍬商店,0525221501,愛知県,名古屋市西区,名西2-2-5,
+71,"https://kinken-bank.com/help/tradelaw
+",success,株式会社フリースタイル,053-456-1771,静岡県,浜松市中区,砂山町 320-5,浜松駅前ピースビル3階
+72,"https://shop.elcami.info/help/tradelaw
+",scraping error,販売責任者名中野雄司,,,,電話番号053-457-1757,
+73,"https://shop.ippf.jp/help/tradelaw
+",success,株式会社アイピープロファクト,0475-77-7064,千葉県,東金市,北之幸谷1255-8,
+74,"https://www.8banya.jp/help/tradelaw
+",success,JRK株式会社,0476-37-4226,千葉県,成田市,三里塚光ヶ丘1-429,光が丘倉庫Ⅳ101
+75,"https://www.kurobutaya.info/help/tradelaw
+",success,株式会社ライジング,099-238-3710,鹿児島県,鹿児島市,犬迫町509,
+76,"https://www.anellidiginza.co.jp/help/tradelaw
+",scraping error,代表者阿部浩道,,,,電話番号及びメールアドレス03-6255-3383,shop@anellidiginza.co.jp
+77,"http://shop.sr-service.co.jp/help/tradelaw
+",success,株式会社SRサービス,0563-34-9121,愛知県,西尾市,吉良町荻原早渡18番地,
+78,"https://prime-heart.com/help/tradelaw
+",scraping error,株式会社シンクロイノベーション,0532-21-5583,,,,
+79,"https://perenoel-select.com/help/tradelaw
+",success,株式会社ペールノエル,0545-32-8885,静岡県,富士宮市,外神235番地,
+80,"https://chokubai-go.com/help/tradelaw
+",success,杉本食肉産業株式会社豊田工場,0565-29-1221,愛知県,豊田市,聖心町4-5,
+81,"https://tms-hm.sakura.ne.jp/ec/help/tradelaw
+",success,株式会社トラベルマネジメントシステム,052-566-0035,愛知県,名古屋市中村区,名駅南4丁目8番12号,T&E名駅南ビル1階
+82,"https://www.takasu-dyna-onlineshop.com/help/tradelaw
+",scraping error,高鷲スノーパーク&ダイナランド,0575-72-6636,,,,
+83,"https://shop.kentosya.co.jp/help/tradelaw
+",scraping error,株式会社オークラ,0584-78-1540,,,,
+84,"https://kazokunocrouton.com/onlineshop/help/tradelaw
+",success,布袋食糧株式会社,0587-55-1181,愛知県,江南市,五明町高砂159番地,
+85,"https://kazokunocrouton.com/onlineshop/help/tradelaw
+",success,布袋食糧株式会社,0587-55-1181,愛知県,江南市,五明町高砂159番地,
+86,"https://lian-sakai-onlineshop.jp/help/tradelaw
+",success,株式会社サカイ,0587-56-2847,愛知県,江南市,古知野町広見10,
+87,"https://yamasakiya.jp/help/tradelaw
+",scraping error,代表責任者雨盛勝巳,,,,電話番号079-272-0595,
+88,"https://shop.kongouhouji.or.jp/help/tradelaw
+",scraping error,幸巡株式会社,0967-44-0708,,,,
+89,"https://pokk.co.jp/shop/help/tradelaw
+",success,株式会社パソコンお助け烏山,0287-82-7345,栃木県,那須烏山市,金井2-5-9,
+90,"https://ec4.cml.co.jp/help/tradelaw
+",scraping error,株式会社シー・エム・エル,03-5917-0688,,,,
+91,"https://izumo-cheesecake-honpo.com/shop/help/tradelaw
+",scraping error,中浦食品株式会社,0120-45-7585,,,,
+92,"https://e-sapo.application.mrri.jp/help/tradelaw
+",scraping error,株式会社マネジメント・リソース,0744-45-5126,,,,
+93,"https://e-sapo.application.mrri.jp/help/tradelaw
+",scraping error,株式会社マネジメント・リソース,0744-45-5126,,,,
+94,"https://shop.kamearikomachi.com/help/tradelaw
+",success,すみれ美容室,03-3602-0772,東京都,葛飾区,亀有3-21-11,あいビル2階
+95,"https://www.satt-web.com/shop/help/tradelaw
+",success,有限会社サット・システムズ,088-802-8175,高知県,高知市,愛宕町3丁目12番13号,晃榮ビル2F
+96,"https://yorozumall.com/help/tradelaw
+",scraping error,株式会社FOREST,0790-45-1626,,,,
+97,"https://shop.only-wan.com/help/tradelaw
+",success,オンリー☆ワン,0791-62-9034,兵庫県,たつの市,龍野町四箇98-6,
+98,"https://shop.tetsujin-no-tamago.jp/help/tradelaw
+",scraping error,小坂養鶏藤井芳晴,0794-66-4839,,,,
+99,"https://ac-koubaibu.com/help/tradelaw
+",success,アクリル運動部株式会社,072-922-1681,大阪府,八尾市,山賀町4-63,
+100,"https://aidcastore.aidca.jp/help/tradelaw
+",success,株式会社アイドカ,03-5831-2644,東京都,足立区,竹の塚3-10-1,竹の塚ビル6F
+101,"https://nica-life.com/help/tradelaw
+",success,株式会社サンクレスト,06-6725-5553,大阪府,東大阪市,南上小阪12,-42
+102,"https://store.ad3.jp/help/tradelaw
+",都道府県抜け,株式会社アドスリー,03-3528-9841,,,支払方法,
+103,"https://ectatsujin.nextshop.jp/help/tradelaw
+",success,株式会社アイビーシー,03-3269-4701,東京都,新宿区,新小川町3-3,飯田橋ISビル3F
+104,"https://lyricalbranch.m01.jp/help/tradelaw
+",都道府県抜け,Mallcoh music企画,045-366-3724,,,〒241,-0826横浜市旭区東希望が丘165-43
+105,"https://www.imagemission.com/shop/help/tradelaw
+",success,株式会社イメージミッション木鏡社,054-200-2818,静岡県,静岡市葵区,水落町9-10,
+106,"https://www.imagemission.com/shop/help/tradelaw
+",success,株式会社イメージミッション木鏡社,054-200-2818,静岡県,静岡市葵区,水落町9-10,
+107,"https://www.simple-market.jp/help/tradelaw
+",scraping error,株式会社シンプル,089-909-8508,,,,
+108,"https://filament03.xsrv.jp/test/dphofu-ec3/help/tradelaw
+",success,防府商工会議所,0835-25-3700,山口県,防府市,八王子2丁目8番9号,
+109,"https://www.luckybell.co.jp/ec/help/tradelaw
+",scraping error,ラッキーベル株式会社,,,,,
+110,"https://www.luckybell.co.jp/ec/help/tradelaw
+",scraping error,ラッキーベル株式会社,,,,,
+111,"https://shop.astrong.co.jp/help/tradelaw
+",scraping error,株式会社アストロン,,,,,
+112,"https://kaorinokai.abe-kk.co.jp/help/tradelaw
+",scraping error,■ コンテンツ商品について,052-911-6311,,,,
+113,"https://tosahikari.co.jp/shop/help/tradelaw
+",success,株式会社土佐ひかりCDM,097-578-8307,高知県,高岡郡,四万十町平串407番地1,
+114,"https://ootemon.jp/help/tradelaw
+",scraping error,株式会社はしだ,0847-22-5143,,,,
+115,"https://banksyjapancrafts.com/help/tradelaw
+",success,株式会社Asian Bridge,03-5442-2296,東京都,港区,芝3-1-15,芝ボートビル7F
+116,"https://suit.idleboy.net/help/tradelaw
+",scraping error,ヤマメン株式会社,,岡山県,井原市,上出部町41,
+117,"https://prisen.shimahide.com/help/tradelaw
+",scraping error,株式会社志満秀,0120-459-192,,,,
+118,"https://prisen.shimahide.com/help/tradelaw
+",scraping error,株式会社志満秀,0120-459-192,,,,
+119,"https://store.kuroda.co.jp/help/tradelaw
+",success,TEL:0879-25-9581,0879-25-9581,香川県,東かがわ市,三本松722番地1,
+120,"https://shop.kunitora.co.jp/help/tradelaw
+",success,有限会社國寅商店,0880-31-0075,高知県,四万十市,古津賀3045番地,
+121,"https://earth-request.com/help/tradelaw
+",success,合同会社ダイビングスクールあつまる,0980-87-0886,沖縄県,石垣市,登野城3-3,さだとしビル1ーA
+122,"https://tsukushi-hoikuen.info/help/tradelaw
+",success,社会福祉法人皆輪会,092-571-2572,福岡県,福岡市博多区,板付7丁目3番地16号,
+123,"https://mfcwtef012.benri.flowshop.co.jp/help/tradelaw
+",scraping error,株式会社メディカルフロント,03-6661-0892,,,,
+124,"https://kyoukasho.univ.coop/hokkai/html/help/tradelaw
+",scraping error,北海学園生活協同組合,011-811-8689,,,,
+125,"https://tstyleandiy.com/help/tradelaw
+",success,山本建装株式会社,072-284-9140,大阪府,堺市堺区,錦之町東2丁1番26号,
+126,"https://george-magic.com/help/tradelaw
+",scraping error,有限会社ジョージマジックカンパニー,025-283-2424,,,,
+127,"https://shop.kanzou-shiryou.com/help/tradelaw
+",success,株式会社ファブリック大西,0942-77-3870,福岡県,三井郡,大刀洗町山隈2064-7,
+128,"https://www.nakashimaseicha.com/shop/help/tradelaw
+",scraping error,株式会社中島製茶本舗,0943-54-3335,,,,
+129,"http://y-n.world-lang.net/help/tradelaw
+",scraping error,ワールド日本語インスティテュート,092-589-6800,,,,
+130,"https://parts-hanbai-no1.jp/help/tradelaw
+",success,株式会社カイショー,092-600-1087,福岡県,嘉麻市,上臼井1752,
+131,"https://salon-shop.net/help/tradelaw
+",scraping error,株式会社MakeIT EC事業部,,,,[EC事業部],
+132,"https://www.nakagawachaen.com/shop/help/tradelaw
+",success,有限会社中川茶園,0955-74-8125,佐賀県,唐津市,本町1746-2,
+133,"https://yoshimura888.com/ec4/help/tradelaw
+",success,株式会社ヨシムラ,0955-74-3526,佐賀県,唐津市,海岸通7182-274,
+134,"https://shop.e-nishiyama.com/help/tradelaw
+",success,有限会社サクセス,072-688-5794,大阪府,高槻市,成合411-12,
+135,"https://shop.hair-levie.com/help/tradelaw
+",success,Hair Lounge Le'vie熊田寿栄,03-3541-0203,東京都,中央区,銀座3-10-14,東銀1ビル4F
+136,"https://ec.sherbet.pro/help/tradelaw
+",success,〒160-0008 東京都新宿区四谷三栄町10-12ボナフラワービル4階,03-5369-4070,東京都,新宿区,四谷三栄町10-12,ボナフラワービル4階
+137,"https://fresco-1990.co.jp/help/tradelaw
+",scraping error,株式会社フレスコ,088-861-1033,,,,
+138,"http://kamiyama.co.jp/nenga/html/help/tradelaw
+",scraping error,株式会社カミヤマ,052-565-1118,,,,
+139,"https://www.national-azabu.net/help/tradelaw
+",都道府県抜け,"NATIONAL BUSSAN CO.,LTD|ナショナル物産株式会社ナショナル麻布",03-3442-3181,,,NATIONAL AZABU,
+140,"https://rental.3ei-j.com/help/tradelaw
+",success,三栄自動車リース株式会社,089-972-1082,愛媛県,松山市,空港通2丁目14番7号,
+141,"https://www.okabe-kyouzai.com/help/tradelaw
+",scraping error,株式会社オカベ,0296-57-2174,,,,
+142,"https://www.iide-tanakaya.co.jp/help/tradelaw
+",scraping error,株式会社田中屋,0238-72-2054,,,,
+143,"https://studiojin.co.jp/shop/help/tradelaw
+",scraping error,株式会社スタジオJin,047-497-8698,,,,
+144,"http://www.aso-shizen.com/help/tradelaw
+",success,株式会社阿蘇自然の恵み総本舗,0800-200-5505,熊本県,菊池郡,大津町杉水西上原1193-5,
+145,"https://craftsmec.com/help/tradelaw?shop_id=7
+",scraping error,,0895241443,愛媛県,宇和島市,野川甲1207,-3
+146,"https://www.tokyolab.net/store/help/tradelaw
+",success,03-5855-1226contact@tokyolab.net,03-5855-1226,東京都,荒川区,西尾久7-7-4-1F,
+147,"https://www.in-one.jp/onlineshop/help/tradelaw
+",都道府県抜け,株式会社カライス,089-968-1227,,,代表取締役平松 エリサ,
+148,"http://wakura.online-store.shop/help/tradelaw
+",scraping error,わ蔵,,,,,
+149,"https://awamori-street.net/help/tradelaw
+",scraping error,株式会社オフィススリーオー,0989638182,,,,
+150,"https://shop.ocome-makioka.co.jp/help/tradelaw
+",success,株式会社槇岡肥料店,0847-62-3215,広島県,府中市,上下町上下2672-2,
+151,"https://fuji-no-hana.jp/help/tradelaw
+",success,株式会社ENM,0120-822-220,福岡県,福岡市南区,弥永4-6-6,
+152,"https://www.sawa2.com/help/tradelaw
+",scraping error,株式会社イエローワーカーズ,03-5843-1333,,,,
+153,"https://pegasowine.net/help/tradelaw
+",scraping error,PEGASO WineSelet会社名:株式会社RG,03-6434-1335,,,,
+154,"https://www.akibakan.com/help/tradelaw
+",scraping error,株式会社センチュリー,03-3255-8252,,,,
+155,"https://furukawa-tech.co.jp/help/tradelaw
+",success,フルカワテック 株式会社,0944-87-4134,福岡県,大川市,大字大野島286-3,
+156,"https://hyperlane.jp/help/tradelaw
+",success,Hyper Lane,03-3987-1631,東京都,豊島区,東池袋1-43-6,DーBOXビル3F・4F
+157,"https://www.otokupage.com/help/tradelaw
+",scraping error,神戸食品産業株式会社,078-967-5130,,,,
+158,"https://shop.k-yamachou.com/help/tradelaw
+",scraping error,山長小野寺商店 小野寺初夫,0226-22-1816,,,,
+159,"https://www.moritiku.com/help/tradelaw
+",scraping error,運営責任者,,,,〒-,
+160,"https://ijs-yoyaku.com/vecchio-albero-shop/help/tradelaw
+",success,ヴェッキオアルベロ,029-277-1971,茨城県,水戸市,笠原町887-24,
+161,"https://japandonburi.com/store/help/tradelaw
+",success,鮨飛脚三町店,058-372-4083,岐阜県,本巣市,政田1986,本巣イオンタウン敷地内
+162,"https://bellmare-officialshop.com/help/tradelaw
+",success,株式会社リップルコミュニティ,03-5315-4043,東京都,新宿区,新宿6丁127,ストーク新宿312
+163,"https://anchorage.ec.owl-solution.jp/help/tradelaw
+",scraping error,ANCHORAGE山川良太,092-555-3302,,,,
+164,"https://yamamoto-ya.co.jp/ecshop/help/tradelaw
+",success,有限会社山本屋,0834-62-2041,山口県,周南市,政所3-10-13,
+165,"http://shop.evahface.jp/help/tradelaw
+",success,有限会社エヴァフェイス,0337874020,東京都,品川区,戸越2,ｰ5ｰ岡田ビル1階
+166,"https://abc-card.com/help/tradelaw
+",success,有限会社山﨑製作所,027-388-3131,群馬県,高崎市,吉井町小暮105-1,
+167,"https://nishimurakyozai.net/help/tradelaw
+",scraping error,株式会社西村教材,0749-22-2137,,,,
+168,"https://others01.xsrv.jp/yamatocha/help/tradelaw
+",scraping error,代表責任者,,,,電話番号,
+169,"https://gyusyo-ec.vitalize.co.jp/help/tradelaw
+",success,株式会社Vitalize,03-5698-2198,東京都,新宿区,西新宿6丁目6,-3新宿国際ビルディング新館803-2
+170,"https://hako.wave.jp/help/tradelaw
+",success,高桑美術印刷株式会社,076-256-2258,）石川県,（EC担当能美郡,川北町土室か16-1,(本店金沢市泉本町5丁目27番地
+171,"http://myace.jp/books/html/help/tradelaw
+",scraping error,株式会社エース,03-6273-2270,,,,
+172,"https://shopping.kokoo.info/help/tradelaw
+",都道府県抜け,Koko'o,089-945-2381,,,(商品・時期等によりお時間を頂く場合もございます。商品ページをご確認ください。),
+173,"https://shop.uv-shimizu.co.jp/help/tradelaw
+",都道府県抜け,清水産業株式会社,03-5823-2385,,本社：大阪市東成区,東今里2-8-4,
+174,"https://store.daoko.jp/help/tradelaw
+",success,株式会社ネオプラン,03-3746-2424,東京都,渋谷区,千駄ヶ谷2-10-2,グランコート千駄ケ谷2F
+175,"https://shop.nikunoiijima.co.jp/deli/help/tradelaw
+",success,株式会社イイジマ,029-254-2441,茨城県,水戸市,見川2-108-26,
+176,"https://shop.nikunoiijima.co.jp/deli/help/tradelaw
+",success,株式会社イイジマ,029-254-2441,茨城県,水戸市,見川2-108-26,
+177,"https://www.pan-tomo.jp/help/tradelaw
+",都道府県抜け,株式会社ナインブロック,06-6448-2621,,大阪市西区,靱本町一丁目9番18号,布亀ビル6階
+178,"http://xn--eckwa1h0883b3ud.com/direct-shop/html/help/tradelaw
+",scraping error,株式会社ファースト,072-950-2616,,,,
+179,"https://shop.infactgroup.jp/help/tradelaw
+",success,株式会社インファクト,050-3000-9373,東京都,台東区,池之端2-9-3,
+180,"https://sany32.com/ec-cube/help/tradelaw
+",success,有限会社サニー商事,045-470-2655,神奈川県,横浜市都筑区,佐江戸町825-1,
+181,"https://hatchery.jp/store/help/tradelaw
+",scraping error,ウィニングワン株式会社,03-5313-2688,,,,
+182,"https://kanna-kakigori.jp/webshop/help/tradelaw
+",success,株式会社カンナ,03-6453-2737,東京都,世田谷区,下馬2-43-11,COMSSHIMOUMA2F
+183,"https://shunan-eshop.jp/shop/help/tradelaw
+",success,有限会社ティー・エヌ・ライフシステムズ,0834-33-2777,山口県,周南市,代々木通り2-3,代々木公園前ビル3階
+184,"https://www.desch.com/ja/general-terms-and-conditions.html
+",scraping error,,,京都府,＜日本国内お客様窓口＞日本電産シンポ株式会社長岡京市,神足寺田1,
+185,"https://www.santoku-shop.com/help/tradelaw
+",success,株式会社三徳,03-5285-3109,東京都,新宿区,大久保2,-1-14三徳ビル3F
+186,"https://www.nagasaki-shinju.com/ec/html/help/tradelaw
+",scraping error,有限会社長崎真珠,095-860-7317,,,,
+187,"https://amyandbloom.com/help/tradelaw
+",success,株式会社エイチアンドエイチトレーディング,03-5822-9113,東京都,台東区,浅草橋4,-10-7DKKビル1階
+188,"https://miraie-beauty.com/help/tradelaw
+",success,株式会社ビューティフルエンジェル,045-341-3251,神奈川県,横浜市南区,吉野町1丁目3,-15謙泰ビルディング
+189,"https://shakujuen.co.jp/help/tradelaw
+",scraping error,,0120-987-819,東京都,港区,港南1-9-36,
+190,"https://www.erikakobo.com/help/tradelaw
+",scraping error,エリ花工房,03-3337-6852,,,,
+191,"https://www.jea-chugoku.jp/store/help/tradelaw
+",都道府県抜け,一般社団法人日本電気協会中国支部,082-243-4237,,広島市中区,小町4-33,中電ビル2号館4F
+192,"https://motsunabe-tashu.store/help/tradelaw
+",scraping error,株式会社田しゅう,092-725-5007,,,,
+193,"https://www.naturegame.or.jp/shop/help/tradelaw
+",scraping error,公益社団法人日本シェアリングネイチャー協会,03-5363-6061,,,,
+194,"https://shop.mdcosme.co.jp/help/tradelaw
+",success,エムディ化粧品販売株式会社,03-3780-3531,東京都,渋谷区,神泉町19,-5
+195,"https://www.yukatakisen.com/help/tradelaw
+",success,株式会社はらだ,03-3543-5298,東京都,中央区,銀座3-9-4,第一文成ビル3階
+196,"https://store.hokkaitokusan.co.jp/help/tradelaw
+",都道府県抜け,株式会社北海特産フーズ,011-748-3580,,札幌市東区,北35,条東6丁目3ー20
+197,"https://shopping.kinfuku.jp/help/tradelaw
+",success,株式会社金福,093-741-3638,福岡県,北九州市若松区,大鳥居462-1,
+198,"http://thesungolf.com/help/tradelaw
+",都道府県抜け,株式会社サンポリマー,011-640-3666,,大阪市中央区,安土町3丁目2,-3
+199,"https://www.dmx-factory.com/help/tradelaw
+",success,有限会社フレックステクニカ,0475-71-3755,千葉県,東金市,高倉423-1,
+200,"https://shop.yutakachikusan.com/help/tradelaw
+",scraping error,有限会社ユタカチクサン,,東京都,,〒142,-0042品川区豊町4丁目2番地5号
+201,"https://www.liberty-lighting.com/help/tradelaw
+",success,株式会社リバティ照明研究所,03-3829-5671,東京都,墨田区,横網2-5-9,
+202,"https://nishiyamashikki.sakura.ne.jp/help/tradelaw
+",success,株式会社西山漆器,03-3841-8831,東京都,台東区,西浅草3-24-3,
+203,"https://kms-shop.jp/help/tradelaw
+",success,九州メディカルサービス株式会社,03-3863-8028,東京都,台東区,小島2-20-7,扶桑御徒町ビル8F
+204,"https://shop.vgm-robot.com/help/tradelaw
+",scraping error,株式会社ロボット,048-573-3951,,,,
+205,"http://nakahatsu.jp/shop/help/tradelaw
+",success,株式会社中初商店,076-241-4056,石川県,金沢市,野町1-3-58,
+206,"https://www.futabakyouiku.com/help/tradelaw
+",scraping error,フタバ教育産業株式会社,06-6303-4136,,,,
+207,"https://www.fujii-pt.com/help/tradelaw
+",scraping error,藤井印刷株式会社,073-424-4331,,,,
+208,"https://kampo-shoeido.com/help/tradelaw
+",scraping error,,052-691-4694,,,会社概要,
+209,"https://shop-business.epoc.co.jp/html/index.php/help/tradelaw
+",scraping error,有限会社エポック,06-4703-8117,,,,
+210,"https://www.shumei-u.com/help/tradelaw
+",success,マーケティングプラス株式会社名古屋営業所,052-962-4704,東京都,【本社】渋谷区,道玄坂2-10-7,新大宗ビル5号館10F
+211,"https://www.xpsenmon.jp/help/tradelaw
+",scraping error,株式会社クラーク,022-348-6370,,,,
+212,"https://amano-saketen.com/as/html/help/tradelaw
+",scraping error,有限会社富士屋商店,0422-43-4818,,,,
+213,"https://hoshinosyounin.jp/help/tradelaw
+",success,株式会社星の商人,027-384-4919,群馬県,前橋市,荒牧町1-22-7,
+214,"https://gurimu.jp/onlineshop/help/tradelaw
+",都道府県抜け,株式が嫌グリム,082-221-4976,,広島市中区,八丁堀12-15,
+215,"https://mic-shushu.net/shop/help/tradelaw
+",success,株式会社ミックワールド,0852-60-5015,島根県,松江市,乃木福富町274-3,
+216,"https://www.hiroshima-bento.jp/help/tradelaw
+",scraping error,運営責任者,,,,〒-,
+217,"https://projectkt.xsrv.jp/help/tradelaw
+",scraping error,21プロジェクト株式会社,03-5155-9477,,,,
+218,"https://radiabody.com/help/tradelaw
+",scraping error,株式会社ラディアボディ,086-466-5225,,,,
+219,"https://shop.media-1st.com/help/tradelaw
+",success,有限会社Gファクトリー,03-5242-6444,東京都,足立区,保塚町19-16,シャトレー保塚1階
+220,"https://www.i-nakata.co.jp/shop/help/tradelaw
+",success,中田木材工業株式會社,06-6685-5315,大阪府,大阪市住之江区,平林南1-4-2,
+221,"https://arkace.co.jp/shop/help/tradelaw
+",scraping error,,,大阪府,守口市,寺方本通1-3-23,
+222,"https://floortatami.com/webshop/help/tradelaw
+",scraping error,株式会社WT,0952-23-3825,,,,
+223,"https://www.tagaru-online.com/help/tradelaw
+",success,TEL:03-5428-6020,03-5428-6020,東京都,渋谷区,猿楽町26-2,sarugakuーe棟1階
+224,"https://dogs-life.info/ec/help/tradelaw
+",scraping error,代表責任者鈴木寿枝,,,,電話番号053-401-2012,
+225,"https://store.octavo-spa.com/help/tradelaw
+",scraping error,OCTAVO株式会社,03-6447-5535,,,,
+226,"https://items.good-news.co.jp/help/tradelaw
+",success,株式会社グッドニュース,03-5614-5561,東京都,中央区,日本橋浜町2-20-6,花岡ビル
+227,"https://woc.ac.jp/ec/help/tradelaw
+",success,専門学校ワールドオプティカルカレッジ,086-272-5566,岡山県,岡山市中区,平井6,--11
+228,"https://shop.cosmelift.jp/help/tradelaw
+",scraping error,グリースホールディングス株式会社,03-5674-8888,,,,
+229,"https://brickpick.jp/help/tradelaw
+",scraping error,,03-6424-5768,東京都,大田区,南蒲田2-28-27,プリマヴェーラ蒲田2F
+230,"https://order.jungold.jp/help/tradelaw
+",success,株式会社RAIN,03-5830-3400,東京都,台東区,雷門2-11-9,木具定ビル3階
+231,"https://yokohamaya.net/shop/help/tradelaw
+",scraping error,株式会社ヨコハマヤ,0467-46-5849,,,,
+232,"https://www.hakata-kozuki.com/shop/help/tradelaw
+",scraping error,株式会社office nine,092-732-5868,,,,
+233,"https://www.hakata-kozuki.com/shop/help/tradelaw
+",scraping error,株式会社office nine,092-732-5868,,,,
+234,"https://just-shelf.jp/help/tradelaw
+",success,株式会社三英金属,075-921-6111,京都府,京都市南区,久世築山町351番地,
+235,"http://shop.wembley71.com/help/tradelaw
+",success,株式会社Cavern,03-6881-6285,東京都,渋谷区,幡ヶ谷2-52-3,
+236,"https://ace-k.shop/help/tradelaw
+",都道府県抜け,有限会社エース工房,06-6375-8472,,大阪市北区,本庄西2-14-4,
+237,"https://shop.bulldons.com/help/tradelaw
+",success,株式会社BULLDON'S,03-6379-7941,東京都,世田谷区,上北沢4-16-7,
+238,"https://store.so-graceclinic.com/help/tradelaw
+",scraping error,住所,03-6408-0480,,,,
+239,"https://www.pcstore.jp/help/tradelaw
+",success,株式会社ネクステージ,06-6599-8191,大阪府,大阪市浪速区,日本橋5丁目14-10,
+240,"https://beticrom.jp/help/tradelaw
+",scraping error,代表責任者,,,,電話番号,
+241,"https://shop.digixweb.com/help/tradelaw
+",scraping error,株式会社デジックス,092-511-6662,,,,
+242,"https://canary-coffee.com/help/tradelaw
+",scraping error,株式会社シーアンドシー,,群馬県,高崎市,筑縄町382,-2
+243,"https://gyouza.co.jp/shop/help/tradelaw
+",scraping error,株式会社丸正,06-6909-8077,,,,
+244,"https://shop.nikunoiijima.co.jp/so-zai/help/tradelaw
+",success,株式会社イイジマ,029-247-7002,茨城県,水戸市,元吉田町273-6,
+245,"https://sukiyaki-ramen.com/help/tradelaw
+",scraping error,株式会社Suwa,0886027088,,,,
+246,"https://shop.1roomseitaiin.jp/help/tradelaw
+",success,1room整体院,03-4500-7251,東京都,板橋区,成増1丁目23,-19 クロスロード a室
+247,"https://kaneto.ec-cube.shop/help/tradelaw
+",success,株式会社カネト平田商店,054-628-7437,静岡県,焼津市,八楠4丁目13,-7
+248,"https://2nd.ajinomise-ichiban.com/help/tradelaw
+",scraping error,有限会社大阪フーズ,072-242-7556,,,,
+249,"https://www.confidence2011.jp/help/about/tradelaw
+",scraping error,TEL: 024-973-7808,024-973-7808,,,,
+250,"https://tonbi-ec.jp/help/tradelaw
+",success,株式会社SQUARE,06-6455-8014,大阪府,大阪市福島区,福島5-14-8,
+251,"https://shop.sumire-rose.com/help/tradelaw
+",scraping error,SUMIRE 服部英美,058-215-8245,,,,
+252,"https://www.mush-hiro.com/help/tradelaw
+",success,ムッシュ・ヒロ株式会社,0669698754,大阪府,大阪市城東区,東中浜8丁目3番28号,
+253,"https://shop.all-create.com/help/tradelaw
+",success,株式会社オールクリエイト,045-367-8363,神奈川県,横浜市港南区,港南中央通8-1,桜道ヒル107
+254,"https://www.altra-online.com/help/about/tradelaw
+",scraping error,TEL: 076-223-8556,076-223-8556,,,,
+255,"https://tukisapputorico.com/shopping/help/tradelaw
+",都道府県抜け,株式会社青野,011-851-8564,,札幌市豊平区,月寒東3,条16丁目5ー21
+256,"https://tukisapputorico.com/shopping/help/tradelaw
+",都道府県抜け,株式会社青野,011-851-8564,,札幌市豊平区,月寒東3,条16丁目5ー21
+257,"https://shishiniku.com/help/tradelaw
+",success,株式会社アソビヤ,0957-56-8666,長崎県,東彼杵郡,東彼杵町駄地郷187,
+258,"http://kuroshio-ichiba.shop/help/tradelaw
+",success,株式会社黒潮市場,096-356-8666,熊本県,熊本市西区,八島町728-32,
+259,"https://store.blare.jp/help/tradelaw
+",scraping error,Blare 英 恵太,0834-21-8723,,,,
+260,"https://shop.njs.info/help/tradelaw
+",scraping error,長野自動車,075-841-3311,,,,
+261,"https://honkino-ebi-fry.com/help/tradelaw
+",scraping error,株式会社しょうき企画,092-586-8833,,,,
+262,"https://metoo-ec.com/help/tradelaw
+",scraping error,株式会社アイドゥーコーポレーション,082-298-9010,,,,
+263,"https://metoo-ec.com/help/tradelaw
+",scraping error,株式会社アイドゥーコーポレーション,082-298-9010,,,,
+264,"http://shop.karin-jp.com/help/tradelaw
+",scraping error,華琳株式会社,03-6666-9179,,,,
+265,"http://koishiwara-takumi4.com/help/tradelaw
+",scraping error,株式会社M&Sアライアンス,092-791-9274,,,,
+266,"https://shop.kawarasenbei.jp/help/tradelaw
+",scraping error,株式会社宗家くつわ堂,087-851-9280,,,,
+267,"https://shop.kawarasenbei.jp/help/tradelaw
+",scraping error,株式会社宗家くつわ堂,087-851-9280,,,,
+268,"https://tome-kaihatsu.com/shop/help/tradelaw
+",success,株式会社みやぎ登米開発,0220-23-9311,宮城県,登米市,東和町米谷字元町166,
+269,"https://www.trajam.com/help/tradelaw
+",success,株式会社Jam,092-586-9552,福岡県,春日市,松ケ丘4-10,
+270,"https://www.dragontough.co.jp/help/tradelaw
+",scraping error,株式会社DragonTough,,,,電話番号,
