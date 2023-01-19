@@ -37,7 +37,7 @@ def main():
                     'ad4':ad4
                 }
             scraping_list.append(data)
-    df = pd.DataFrame(scraping_list)
+    df = pd.DataFrame(scraping_list,index=False)
     df.to_csv( re.search('(.*?).csv',filename).group(1) +'_result.csv')
 
 
